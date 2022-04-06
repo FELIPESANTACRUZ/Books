@@ -1,5 +1,5 @@
 # My Books 
- CRUD em Graphql de livros 
+ API em Graphql de livros 
 
 http://localhost:4000/
 
